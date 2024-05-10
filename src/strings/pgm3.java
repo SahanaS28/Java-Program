@@ -16,6 +16,7 @@ public class pgm3
 				System.out.println(s.charAt(i));
 			}
 		}
+		//System.out.println(s.length()-1);
 		System.out.println(s.charAt(s.length()-1));
 	}
 

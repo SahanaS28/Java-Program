@@ -20,6 +20,7 @@ public class a2b3a2b1c1
 			  count=1;
 		  }
 		}
+		
 		System.out.print(s.charAt(s.length()-1)+""+count);
 	}
 

@@ -32,7 +32,7 @@ public class countofduplicates
 		{
 			System.out.println(s.charAt(i)+" "+count);
 		}
-		}
+	}
 
 }
 }

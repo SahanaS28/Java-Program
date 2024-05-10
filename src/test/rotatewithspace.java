@@ -2,6 +2,7 @@ package test;
 
 public class rotatewithspace {
 public static void main(String[] args) {
+	//y ti cero lagnabmor fmaI
 	String st="I am from bangalore city";
 	String s=st.replace(" ","");
 	int j=s.length()-1;

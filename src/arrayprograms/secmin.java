@@ -1,9 +1,6 @@
 package arrayprograms;
 
 public class secmin {
-
-	
-
 	
 	public static void main(String[] args) 
 	{

@@ -1,3 +1,4 @@
+
 package stringprograms;
 
 import java.util.HashMap;
@@ -16,6 +17,7 @@ public class duplicatewordinmap {
 			h.put(s[i], h.get(s[i])+1);
 			}
 			else
+				 
 			{
 				h.put(s[i], 1);
 			}

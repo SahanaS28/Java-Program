@@ -8,7 +8,7 @@ public class removeduplicatewordsusingmap {
 	{
 		String st="hi hello hello to";
 		String[] s=st.split(" ");
-		HashMap<String, Integer> h=new HashMap<String, Integer>();
+		HashMap<String,Integer> h=new HashMap<String,Integer>();
 		for(int i=0;i<s.length;i++)
 		{
 			if(h.containsKey(s[i]))

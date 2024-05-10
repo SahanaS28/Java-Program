@@ -1,8 +1,9 @@
 package stringprograms;
 
-public class addnumberinstring {
-public static void main(String[] args)
+public class addnumberinstring
 {
+  public static void main(String[] args)
+ {
 	String s="a1b2c3d";
 	int sum=0;
 	for (int i = 0; i < s.length(); i++) 
@@ -16,5 +17,5 @@ public static void main(String[] args)
 	}
 	System.out.println(sum);
 	
-}
+ }
 }

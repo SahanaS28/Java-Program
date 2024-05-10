@@ -1,4 +1,4 @@
-package test;
+kjpackage test;
 
 
 
@@ -9,11 +9,13 @@ public class maxlengthofwordinagivenstring
 		String st="I am from Bangalore city";
 		String[] s=st.split(" ");
 		String max=s[0];
+		
 		for (int i = 0; i < s.length; i++)
 		{
 			if(s[i].length()>max.length())
 			{
 				max=s[i];
+				
 			}
 			
 		}
@@ -21,7 +23,7 @@ public class maxlengthofwordinagivenstring
 		{
 			if(s[i].length()==max.length())
 			{
-				System.out.println(s[i]);
+				System.out.println(s[i]+" "+s[i].length());
 			}
 		}
 		

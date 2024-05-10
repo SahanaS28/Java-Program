@@ -19,6 +19,7 @@ public class minandmax
 				}
 				
 			}
+			
 			//System.out.print(a[i]);
 			
 		}

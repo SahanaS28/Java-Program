@@ -17,7 +17,7 @@ public class mulof1_3max {
 				  
 				}
 			}
-System.out.println(a[i]);
+           System.out.println(a[i]);
 		}
 		
 		int mul=1;

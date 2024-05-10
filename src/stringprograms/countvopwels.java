@@ -13,8 +13,8 @@ public class countvopwels
 		if(s[i]=='a'||s[i]=='e'||s[i]=='i'||s[i]=='o'||s[i]=='u')
 		{
 			count++;
-			System.out.print(s[i]+" ");
-			
+			System.out.print(s[i]+" "+count);
+			System.out.println();
 		}
 	}
 	System.out.println();
